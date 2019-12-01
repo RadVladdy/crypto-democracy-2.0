@@ -41,8 +41,6 @@ People need to exchange one type of commodity with another type of commodity for
 
 6.	Negligible or minimal uses of the commodity outside of its monetary use. Hence price changes that occur due to demand fluctuations from non-monetary uses of the commodity is eliminated/reduced.
 
-7.	Easily verifiable for originality.
-
 If one thinks about it, these properties are naturally required for any commodity to play the role of money.
 
 It can be noted that money is also a commodity and hence has an associated price/value based on its demand from people for its monetary utility. Hence money is also subject to supply and demand dynamics. The value of money always either shoots up or goes down based on its usage.
@@ -61,9 +59,7 @@ Gold inherently has the properties of a good monetary commodity.
 
 5.	Gold can be made as smaller coins and bars.
 
-6.	Jewellery is the other major use of gold outside of its monetary use. However, the demand for gold as jewellery is negligible compared to its monetary use.
-
-7.	Gold can be easily verified for its originality.
+6.	Jewelry is the other major use of gold outside of its monetary use. However, the demand for gold as jewellery is negligible compared to its monetary use.
 
 *4.	Drawbacks of gold as monetary commodity*
 
@@ -78,6 +74,10 @@ Gold inherently has the properties of a good monetary commodity.
 5.	Given transportation difficulties and safety concerns, banks are required to keep it safely in return for a service fee.
 
 6.	Inflation: There have been instances when governments seized people's gold coins, extracted some portions of gold from those coins, and replaced the extracted portion with low value metals like copper. After that, they redistributed the copper mixed gold coin to people. The seized gold is used to fund wars, the luxury lifestyle of kings, and to pay debts owed to banks or other kingdoms. Obviously a copper mixed gold coin has lesser value (purchasing power) than an original gold coin, so now it can buy less goods than the original coin.
+
+7.      Gold is expensive to definitively verify authenticity. This requires weighing and assaying.
+
+8.      Does not easily scale to small-value transactions due to value density.  Requires less valuable metals such as silver.
 
 While not a drawback, the evolution of gold and banks also led to people storing their gold in banks for a longer time, and also banks using them to provide loans to people for their personal and business needs.
 
